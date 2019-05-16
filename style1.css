@@ -1,0 +1,110 @@
+body{
+
+    margin: 0;
+
+}
+
+#header{
+
+    text-align: center;
+    padding-bottom: 20px;
+    border-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #1c1c1c;
+    margin-bottom: 20px;
+
+}
+
+#logo{
+
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    align-content: center;
+
+}
+
+#garlicpic{
+
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+#garlicText{
+
+    font-size: 40px;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+#slogan{
+
+    font-size: 20px;
+
+}
+
+#title{
+
+    padding-bottom: 10px;
+    border-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #1c1c1c;
+
+}
+
+#titletext{
+
+    font-size: 50px;
+    display: block;
+
+}
+
+#main_content{
+
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+#whspic{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+#date_and_author{
+
+    display: block;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 18px;
+
+}
+
+#article{
+
+    font-size: 20px;
+
+}
+
+footer{
+
+    display: block;
+    background-color:white;
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+#footer_text{
+
+    display: inline-block;
+    vertical-align: middle;
+
+}
