@@ -89,6 +89,13 @@ body{
 #article{
 
     font-size: 20px;
+    padding-top:20px;
+    border-width: 2px;
+    border-top-style: solid;
+    border-top-color: #1c1c1c;
+    border-bottom-style: solid;
+    border-bottom-color: #1c1c1c;
+    padding-bottom: 20px;
 
 }
 
